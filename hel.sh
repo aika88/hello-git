@@ -1,3 +1,3 @@
 #!bin/bash
 
-hello
+echo "hello" > hel.sh
